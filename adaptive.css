@@ -1,0 +1,101 @@
+@media only screen and (max-width: 1200px){
+  
+  .text_first_page {
+    
+    font-size: 29px;
+    
+  }
+  
+  .metallica_logo {
+    
+    height: 120px;
+    
+  }
+  
+  .text_center a {
+    
+    font-size: 26px;
+    
+  }
+
+  .bottom_text, .top_text {
+    
+    font-size: 16px;
+    
+  }
+  
+  .list-left a, .list-right a {
+    
+    font-size: 25px;
+    
+  }
+  
+}
+
+@media only screen and (max-width: 992px) {
+  
+  .text_first_page {
+    
+    font-size: 26px;
+    
+  }
+  
+  .metallica_logo {
+    
+    height: 100px;
+    
+  }
+  
+  .bottom_text, .top_text {
+    
+    font-size: 16px;
+    
+  }
+
+  .text_center a {
+    
+    font-size: 22px;
+    
+  }
+  
+  .list-left a, .list-right a {
+    
+    font-size: 25px;
+    
+  }
+  
+}
+
+@media only screen and (max-width: 768px) {
+  
+  .text_first_page {
+    
+    font-size: 18px;
+    
+  }
+  
+  .metallica_logo {
+    
+    height: 60px;
+    
+  }
+  
+  .bottom_text, .top_text {
+    
+    font-size: 16px;
+    
+  }
+
+  .text_center a {
+    
+    font-size: 15px;
+    
+  }
+  
+  .list-left a, .list-right a {
+    
+    font-size: 17px;
+    
+  }
+  
+}
